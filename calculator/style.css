@@ -13,7 +13,7 @@
   font-size: 22pt;
 }
 
-.buttons>button{
+.buttons>input{
   margin: 10px;
   width: 100px;
   height: 100px;
