@@ -1,0 +1,19 @@
+.main_block{
+  margin: 0 40% 0 40%;
+  text-align: center;
+}
+
+.result{
+  text-align: center;
+}
+
+.result>input{
+  width: 100%;
+}
+
+.buttons>button{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 100px;
+  height: 100px;
+}
